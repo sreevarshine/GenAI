@@ -8,10 +8,16 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 To Install all the dependencies 
+
+
 npm install
+
 To run
+
 npm run dev
 
 To run the Model
+
 pip install uvicorn
+
 uvicorn index:app --port 5137
